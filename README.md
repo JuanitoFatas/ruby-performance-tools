@@ -1,4 +1,4 @@
-# ruby-performance-tools
+# Ruby Performance Tools
 
 ## Terms
 
