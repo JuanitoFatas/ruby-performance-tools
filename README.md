@@ -18,19 +18,19 @@
 
 - [ruby built-in profiler](https://github.com/ruby/ruby/blob/trunk/lib/profiler.rb)
 
+- [tmm1/perftools.rb](https://github.com/tmm1/perftools.rb) for Ruby < 2.1
+
 - [tmm1/stackprof](https://github.com/tmm1/stackprof)
 
 - [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
+
+  C extension, support GraphViz.
 
 - [tmm1/rblineprof](https://github.com/tmm1/rblineprof)
 
 #### Rack-based app
 
 - [MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
-
-## Tools
-
-- [tmm1/perftools.rb](https://github.com/tmm1/perftools.rb)
 
 ## Memory
 
