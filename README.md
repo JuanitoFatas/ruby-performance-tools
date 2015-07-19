@@ -16,6 +16,8 @@
 
 ## Profiling
 
+- [ruby built-in profiler](https://github.com/ruby/ruby/blob/trunk/lib/profiler.rb)
+
 - [tmm1/stackprof](https://github.com/tmm1/stackprof)
 
 - [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
