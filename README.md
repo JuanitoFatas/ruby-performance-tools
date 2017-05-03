@@ -44,6 +44,14 @@
 
 - [ko1/gc_tracer](https://github.com/ko1/gc_tracer)
 
+## Monitoring
+
+- [Prometheus Ruby Client](https://github.com/prometheus/client_ruby)
+
+- [Simple Graphite](https://github.com/imeyer/simple-graphite)
+
+- [Raindrops](https://bogomips.org/raindrops/)
+
 ## Talks
 
 - [How to Performance (at GORUCO in NYC)](https://speakerdeck.com/eileencodes/how-to-performance-at-goruco-in-nyc)
