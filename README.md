@@ -16,6 +16,9 @@
 
 ## Profiling
 
+- [rbspy/rbspy](https://github.com/rbspy/rbspy)
+  Sampling profiler for Ruby.
+
 - [ruby built-in profiler](https://github.com/ruby/ruby/blob/trunk/lib/profiler.rb)
 
 - [tmm1/perftools.rb](https://github.com/tmm1/perftools.rb) for Ruby < 2.1
