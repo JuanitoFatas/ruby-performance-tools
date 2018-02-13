@@ -55,6 +55,10 @@
 
 - [Raindrops](https://bogomips.org/raindrops/)
 
-## Talks
+## Talks on performance, memories
 
+- [RailsConf 2017: Your App Server Config is Wrong by Nate Berkopec](https://www.youtube.com/watch?v=itbExaPqNAE)
+- [RailsConf 2017: Panel: Performance... performance](https://www.youtube.com/watch?v=SMxlblLe_Io)
+- [RubyConf 2016: Halve Your Memory Usage With These 12 Weird Tricks](https://www.youtube.com/watch?v=kZcqyuPeDao)
+- [Memory Fragmentation and Bloat in Ruby](https://www.youtube.com/watch?v=eBmM-yWPeMw)
 - [How to Performance (at GORUCO in NYC)](https://speakerdeck.com/eileencodes/how-to-performance-at-goruco-in-nyc)
