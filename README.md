@@ -9,6 +9,8 @@
 ## Benchmark
 
 - [evanphx/benchmark-ips](https://github.com/evanphx/benchmark-ips)
+- [piotrmurach/benchmark-trend](https://github.com/piotrmurach/benchmark-trend)
+- [piotrmurach/benchmark-malloc](https://github.com/piotrmurach/benchmark-malloc)
 
 ## Trace
 
