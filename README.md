@@ -65,3 +65,16 @@
 - [RubyConf 2016: Halve Your Memory Usage With These 12 Weird Tricks](https://www.youtube.com/watch?v=kZcqyuPeDao)
 - [Memory Fragmentation and Bloat in Ruby](https://www.youtube.com/watch?v=eBmM-yWPeMw)
 - [How to Performance (at GORUCO in NYC)](https://speakerdeck.com/eileencodes/how-to-performance-at-goruco-in-nyc)
+
+## People (A-Z)
+
+* [Aaron Patterson (@tenderlove) | Twitter](https://twitter.com/tenderlove)
+* [Charles Nutter (@headius) | Twitter](https://twitter.com/headius)
+* [Chris Seaton (@ChrisGSeaton) | Twitter](https://twitter.com/ChrisGSeaton)
+* [Eileen M. Uchitelle (@eileencodes) | Twitter](https://twitter.com/eileencodes)
+* [Hongli Lai (@honglilai) | Twitter](https://twitter.com/honglilai)
+* [k0kubun (@k0kubun) | Twitter](https://twitter.com/k0kubun)
+* [Nate Berkopec (@nateberkopec) | Twitter](https://twitter.com/nateberkopec)
+* [Richard Schneeman 🤠 (@schneems) | Twitter](https://twitter.com/schneems)
+* [Sam Saffron (@samsaffron) | Twitter](https://twitter.com/samsaffron)
+* [Noah Gibbs (@codefolio) | Twitter](https://twitter.com/codefolio)
