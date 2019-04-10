@@ -33,6 +33,8 @@
 
 - [tmm1/rblineprof](https://github.com/tmm1/rblineprof)
 
+- [SamSaffron/flamegraph](https://github.com/SamSaffron/flamegraph)
+
 #### Rack-based app
 
 - [MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
