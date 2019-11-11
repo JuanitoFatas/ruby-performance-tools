@@ -69,6 +69,21 @@
 - [Memory Fragmentation and Bloat in Ruby](https://www.youtube.com/watch?v=eBmM-yWPeMw)
 - [How to Performance (at GORUCO in NYC)](https://speakerdeck.com/eileencodes/how-to-performance-at-goruco-in-nyc)
 
+## Reading materials
+
+* [Ruby 2.1: Out-of-Band GC](http://tmm1.net/ruby21-oobgc/)
+* [Ruby 2.1: RGenGC](http://tmm1.net/ruby21-rgengc/)
+* [Ruby 2.1: objspace.so](http://tmm1.net/ruby21-objspace/)
+* [Ruby 2.1: Profiling Ruby](http://tmm1.net/ruby21-profiling/)
+* [Ruby 2.1: Process.setproctitle()](http://tmm1.net/ruby21-process-setproctitle/)
+* [Ruby 2.1: Process.clock_gettime()](http://tmm1.net/ruby21-process-clock_gettime/)
+* [Ruby 2.1: Method Cache](http://tmm1.net/ruby21-method-cache/)
+* [Nothing Lasts Forever: Symbol Collection in Ruby 2.2](http://www.schneems.com/2015/01/19/ruby-22-symbol-gc.html)
+* [Unraveling String Key Performance in Ruby 2.2](http://www.schneems.com/2014/11/26/unraveling-string-key-performance.html)
+* [36% smaller Rails memory footprint through Benchmarking](http://www.schneems.com/2014/11/07/i-ram-what-i-ram.html)
+* [Benchmarking Rack Middleware](http://www.schneems.com/2014/10/31/benchmarking-rack-middleware.html)
+* [Why does my App's Memory Use Grow Over Time?](https://www.schneems.com/2019/11/07/why-does-my-apps-memory-usage-grow-asymptotically-over-time/)
+
 ## People (A-Z)
 
 * [Aaron Patterson (@tenderlove)](https://twitter.com/tenderlove)
