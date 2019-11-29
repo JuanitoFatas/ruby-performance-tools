@@ -16,6 +16,7 @@
 ## Trace
 
 - [tmm1/rbtrace](https://github.com/tmm1/rbtrace)
+- [TracePoint](https://ruby-doc.org/core-2.6/TracePoint.html)
 
 ## Profiling
 
