@@ -63,6 +63,7 @@
 
 ## Talks on performance, memories
 
+- ["Performance Matters" by Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
 - [RailsConf 2017: Your App Server Config is Wrong by Nate Berkopec](https://www.youtube.com/watch?v=itbExaPqNAE)
 - [RailsConf 2017: Panel: Performance... performance](https://www.youtube.com/watch?v=SMxlblLe_Io)
 - [RubyConf 2016: Halve Your Memory Usage With These 12 Weird Tricks](https://www.youtube.com/watch?v=kZcqyuPeDao)
