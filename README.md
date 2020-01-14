@@ -34,6 +34,10 @@
 
   C extension, support GraphViz.
 
+- [palkan/test-prof](https://github.com/palkan/test-prof)
+
+  Ruby Tests Profiling Toolbox
+
 - [tmm1/rblineprof](https://github.com/tmm1/rblineprof)
 
 - [SamSaffron/flamegraph](https://github.com/SamSaffron/flamegraph)
