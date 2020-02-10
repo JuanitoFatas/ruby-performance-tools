@@ -13,12 +13,6 @@
 - [piotrmurach/benchmark-malloc](https://github.com/piotrmurach/benchmark-malloc)
 - [benchmark-driver/benchmark-driver](https://github.com/benchmark-driver/benchmark-driver)
 
-## Trace
-
-- [tmm1/rbtrace](https://github.com/tmm1/rbtrace)
-- [TracePoint](https://ruby-doc.org/core-2.6/TracePoint.html)
-- [TappingDevice](https://github.com/st0012/tapping_device)
-
 ## Profiling
 
 - [rbspy/rbspy](https://github.com/rbspy/rbspy)
@@ -41,6 +35,12 @@
 - [tmm1/rblineprof](https://github.com/tmm1/rblineprof)
 
 - [SamSaffron/flamegraph](https://github.com/SamSaffron/flamegraph)
+
+## Trace
+
+- [tmm1/rbtrace](https://github.com/tmm1/rbtrace)
+- [TracePoint](https://ruby-doc.org/core-2.6/TracePoint.html)
+- [TappingDevice](https://github.com/st0012/tapping_device)
 
 #### Rack-based app
 
@@ -100,6 +100,6 @@
 * [Hongli Lai (@honglilai)](https://twitter.com/honglilai)
 * [k0kubun (@k0kubun)](https://twitter.com/k0kubun)
 * [Nate Berkopec (@nateberkopec)](https://twitter.com/nateberkopec)
+* [Noah Gibbs (@codefolio)](https://twitter.com/codefolio)
 * [Richard Schneeman 🤠 (@schneems)](https://twitter.com/schneems)
 * [Sam Saffron (@samsaffron)](https://twitter.com/samsaffron)
-* [Noah Gibbs (@codefolio)](https://twitter.com/codefolio)
