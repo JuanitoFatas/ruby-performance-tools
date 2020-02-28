@@ -36,6 +36,8 @@
 
 - [SamSaffron/flamegraph](https://github.com/SamSaffron/flamegraph)
 
+- iprofiler + [Instruments](https://developer.apple.com/videos/play/wwdc2019/411/) (macOS only)
+
 ## Trace
 
 - [tmm1/rbtrace](https://github.com/tmm1/rbtrace)
@@ -90,6 +92,7 @@
 * [36% smaller Rails memory footprint through Benchmarking](http://www.schneems.com/2014/11/07/i-ram-what-i-ram.html)
 * [Benchmarking Rack Middleware](http://www.schneems.com/2014/10/31/benchmarking-rack-middleware.html)
 * [Why does my App's Memory Use Grow Over Time?](https://www.schneems.com/2019/11/07/why-does-my-apps-memory-usage-grow-asymptotically-over-time/)
+* [How to optimize Ruby internal](https://speakerdeck.com/watson/how-to-optimize-ruby-internal?slide=5)
 
 ## People (A-Z)
 
