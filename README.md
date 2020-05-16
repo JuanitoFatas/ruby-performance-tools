@@ -56,6 +56,8 @@
 
 - [schneems/get_process_mem](https://github.com/schneems/get_process_mem)
 
+- [socketry/process-metrics](https://github.com/socketry/process-metrics)
+
 ## GC
 
 - [ko1/gc_tracer](https://github.com/ko1/gc_tracer)
